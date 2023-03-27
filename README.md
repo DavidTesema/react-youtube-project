@@ -25,7 +25,7 @@ You will also need to sign up for a RapidAPI account and obtain an API key for t
 
 Once you have these prerequisites installed and an API key obtained, you can follow the steps below to set up the app:
 
-1. Clone the repository to your local machine using git clone https://github.com/odedmasala/react_youtuber_clone.git.
+1. Clone the repository to your local machine using git clone https://github.com/DavidTesema/react_youtuber_clone.git.
 2. Navigate to the root directory of the project and install the dependencies using npm install or yarn install.
 3. Create a file named .env in the root directory of the project and set the value of the REACT_APP_YOUTUBE_API_KEY environment variable to your RapidAPI API key.
 4. Start the development server using npm start or yarn start.
