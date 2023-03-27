@@ -1,7 +1,5 @@
 # youtuber_clone
-
 Welcome to the youtuber_clone app, a YouTube clone built with React, RapidAPI, and Material-UI.
-
 ## Screenshot
 ![123](https://user-images.githubusercontent.com/105584546/228063925-8862c880-6356-4ce1-ad3f-810dd925685b.png)
 
@@ -27,11 +25,11 @@ You will also need to sign up for a RapidAPI account and obtain an API key for t
 
 Once you have these prerequisites installed and an API key obtained, you can follow the steps below to set up the app:
 
-1.Clone the repository to your local machine using git clone https://github.com/odedmasala/react_youtuber_clone.git.
-2.Navigate to the root directory of the project and install the dependencies using npm install or yarn install.
-3.Create a file named .env in the root directory of the project and set the value of the REACT_APP_YOUTUBE_API_KEY environment variable to your RapidAPI API key.
-4.Start the development server using npm start or yarn start.
-5.The app should now be running on http://localhost:3000.
+1. Clone the repository to your local machine using git clone https://github.com/odedmasala/react_youtuber_clone.git.
+2. Navigate to the root directory of the project and install the dependencies using npm install or yarn install.
+3. Create a file named .env in the root directory of the project and set the value of the REACT_APP_YOUTUBE_API_KEY environment variable to your RapidAPI API key.
+4. Start the development server using npm start or yarn start.
+5. The app should now be running on http://localhost:3000.
 ## Building for Production
 To build the app for production, run the following command: npm run build This will create a production-ready build of the app in the build directory.
 
