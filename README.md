@@ -1,7 +1,7 @@
 # youtuber_clone
 Welcome to the youtuber_clone app, a YouTube clone built with React, RapidAPI, and Material-UI.
 ## Screenshot
-![123](https://user-images.githubusercontent.com/105584546/228063925-8862c880-6356-4ce1-ad3f-810dd925685b.png)
+![Screenshot 2023-03-28 001027](https://user-images.githubusercontent.com/105584546/228067747-68e0d22d-23df-43e6-a102-b8cf627f1789.png)
 
 # Getting Started with Create React App
 
